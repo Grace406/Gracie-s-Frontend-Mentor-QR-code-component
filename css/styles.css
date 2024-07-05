@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+Body{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: grid;
+    font-size: 15px;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    padding: 1.5rem;
+    max-width: 1440px;
+    border-radius: 1.5rem;
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 5px 30px hsla(0, 0%, 0%, 0.30) ;
+}
+
+.container img {
+    width: 400px;
+    height: auto;
+    border-radius: 0.75rem;
+    margin: 0;
+}
+
+.texts {
+    padding: 1rem 0rem;
+    text-align: center;
+}
+
+.texts h1 {
+    color: hsl(218, 44%, 22%);
+    padding-bottom:1rem;
+    font-weight: 700;
+    margin: 0;
+    font-size: 32px;
+}
+
+.texts p {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    font-size: 1rem;
+    white-space: wrap;
+    letter-spacing: 0.4px;
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+    padding: 0;
+    white-space: nowrap;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
+
+
+
+/* 
+
+
+MEDIA QUERIES
+
+
+*/
+
+/* Design for mobile */
+
+@media screen and (max-width:375px  ) {
+    Body{
+        background-color: hsl(212, 45%, 89%);
+        width: 70%;
+        width: 700px;
+
+
+    }
+
+    .container {
+        width: 310px;
+        padding-top: 16px;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 5px 30px hsla(0, 0%, 0%, 0.30) ;
+        padding-bottom: 0;
+        padding: 16px 32px 0px;
+    }
+
+    .container img {
+        width: 280px;
+        
+    }
+
+        
+    .texts {
+        text-align: center;
+        padding-top: 20px ;
+        padding-bottom: 20px ;
+
+    }
+
+    .texts h1 {
+        color: hsl(218, 44%, 22%);
+        font-size: 22px;
+        text-wrap: nowrap;
+        line-height: 30px;
+
+    }
+
+    .texts p {
+        color: hsl(220, 15%, 55%);
+        text-wrap: nowrap;
+        line-height: 22px;
+        font-size: 16px;
+        text-align: center;
+
+    }
+
+    .attribution {
+        display: none;
+    }
+    
+    }
+
+
+
+
+
+
+
+
+
+
