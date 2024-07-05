@@ -58,7 +58,7 @@ It was a good learning process for me and I just think that when I'm doing my ne
 
 ```
 ```css
-.proud-of-this-css {
+.container {
       box-shadow: 0 5px 30px hsla(0, 0%, 0%, 0.30) ;
 
 }
