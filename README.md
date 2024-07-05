@@ -28,7 +28,7 @@ I am open to any corrections or advice to how I approached the challenge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git)
+- Solution URL: [https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git]
 - Live Site URL: [Add live site URL here](https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git)
 
 ## My process
