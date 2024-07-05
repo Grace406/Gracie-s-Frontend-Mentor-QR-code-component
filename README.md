@@ -29,7 +29,7 @@ I am open to any corrections or advice to how I approached the challenge.
 ### Links
 
 - Solution URL: [https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git]
-- Live Site URL: [Add live site URL here](https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git)
+- Live Site URL: [https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component.git]
 
 ## My process
 I started out doing the structure and then adding my styles... I got stuck trying to get to perfection, I procastinated a lot and then finally I styled the project and when t came to making it reponsive, i got stuck, I used YouTube videos and asked questions and I finally just made it responsive. 
