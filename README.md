@@ -82,6 +82,8 @@ It was a good learning process for me and I just think that when I'm doing my ne
 
 - Frontend Mentor - [@Grace406](https://www.frontendmentor.io/profile/Grace406)
 - Twitter - [@_she_codes04](https://www.twitter.com/_she_codes04)
+- Instagram - [@shecodes_18]
+- 
 
 
 ## Acknowledgments
