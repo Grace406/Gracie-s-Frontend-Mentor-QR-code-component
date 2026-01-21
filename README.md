@@ -2,8 +2,7 @@
 
 Hi, I'm Gracie 👋  
 
-This is my solution to the [QR Code Component challenge](https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component)  
-Frontend Mentor challenges help developers practice building realistic UI components and improving layout and styling skills.
+This is my solution to the [QR Code Component challenge](https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component). Frontend Mentor challenges help developers practice building realistic UI components and improving layout and styling skills.
 
 ---
 
