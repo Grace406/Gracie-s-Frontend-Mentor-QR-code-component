@@ -31,7 +31,7 @@ My focus was on layout, spacing, and clean structure using modern CSS techniques
 
 ## Links
 - **Repository:** https://github.com/Grace406/Gracie-s-Frontend-Mentor-QR-code-component  
-- **Live Demo:** *(will be added via GitHub Pages)*
+- **Live Demo:** https://grace406.github.io/Gracie-s-Frontend-Mentor-QR-code-component/
 
 ---
 
